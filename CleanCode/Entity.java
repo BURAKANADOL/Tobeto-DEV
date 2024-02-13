@@ -1,0 +1,5 @@
+package CleanCode;
+
+
+interface IEntity {
+}
